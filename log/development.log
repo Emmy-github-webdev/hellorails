@@ -38,3 +38,12 @@ Processing by PagesController#hello as HTML
 Completed 200 OK in 310ms (Views: 292.0ms | ActiveRecord: 0.0ms | Allocations: 40839)
 
 
+Started GET "/" for 127.0.0.1 at 2022-02-21 16:22:23 +0100
+Processing by PagesController#hello as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/hello.html.erb within layouts/application
+  Rendered pages/hello.html.erb within layouts/application (Duration: 2.4ms | Allocations: 193)
+  Rendered layout layouts/application.html.erb (Duration: 25.1ms | Allocations: 2966)
+Completed 200 OK in 33ms (Views: 30.3ms | ActiveRecord: 0.0ms | Allocations: 4166)
+
+

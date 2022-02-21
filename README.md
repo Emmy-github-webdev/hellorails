@@ -20,7 +20,7 @@ To get a local copy up and running follow these simple example steps.
    2.git
 ## Setup
     1.create a local folder on your computer
-    2. clone the [hellorails](https://github.com/Emmy-github-webdev/hellorails)
+    2. clone the [hellorails](git@github.com:Emmy-github-webdev/hellorails.git)
 ## Usage
     1.open the project with a text editor
 
